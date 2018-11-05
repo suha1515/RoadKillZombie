@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+          "roundName": "1-1",
+          "waveCount":11, 
+            "monster": [
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 150.0
+              },
+              {
+                "name": "normal",
+                "count": 2,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 225.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 300.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 325.0
+              },
+              {
+                "name": "normal",
+                "count": 2,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 375.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 400.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 475.0
+              },
+              {
+                "name": "normal",
+                "count": 2,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 500.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 550.0
+              },
+              {
+                "name": "normal",
+                "count": 2,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 600.0
+              },
+              {
+                "name": "normal",
+                "count": 1,
+                "SpwanDirection": "RIGHT",
+                "SpawnPoint": 650.0
+              }
+            ]
+        }
+    ]
+}
