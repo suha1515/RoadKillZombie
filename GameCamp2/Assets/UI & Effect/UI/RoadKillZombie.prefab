@@ -54,8 +54,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: 56153d7b2bc8f4845806a5d43df73625, type: 2}
   mSprites:
   - name: Button
-    x: 875
-    y: 116
+    x: 778
+    y: 1296
     width: 128
     height: 32
     borderLeft: 0
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Button_Dark (1)
-    x: 657
-    y: 93
+    x: 1898
+    y: 1520
     width: 96
     height: 94
     borderLeft: 32
@@ -81,7 +81,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: Button_Dark (4)
     x: 512
-    y: 188
+    y: 1329
     width: 368
     height: 99
     borderLeft: 0
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Button_Dark_Outline (1)
-    x: 881
-    y: 182
+    x: 1789
+    y: 1509
     width: 108
     height: 105
     borderLeft: 36
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Button_On
-    x: 875
-    y: 149
+    x: 657
+    y: 1256
     width: 128
     height: 32
     borderLeft: 0
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Fuel
-    x: 0
-    y: 1
+    x: 1436
+    y: 985
     width: 511
     height: 511
     borderLeft: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: Gold
     x: 0
-    y: 513
+    y: 917
     width: 511
     height: 511
     borderLeft: 0
@@ -143,10 +143,36 @@ MonoBehaviour:
     paddingLeft: 1
     paddingRight: 0
     paddingTop: 1
+    paddingBottom: 0
+  - name: IRONY TITLE  Large
+    x: 0
+    y: 809
+    width: 496
+    height: 107
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 1
+    paddingBottom: 1
+  - name: Label
+    x: 512
+    y: 1137
+    width: 184
+    height: 31
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
     paddingBottom: 0
   - name: Setting
     x: 512
-    y: 513
+    y: 511
     width: 511
     height: 511
     borderLeft: 0
@@ -157,9 +183,35 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 1
     paddingBottom: 0
+  - name: UI board Large  parchment
+    x: 926
+    y: 1497
+    width: 862
+    height: 551
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 1
+    paddingBottom: 1
+  - name: UI board Large  stone
+    x: 0
+    y: 1429
+    width: 925
+    height: 619
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 1
+    paddingBottom: 1
   - name: Weapon_1
-    x: 871
-    y: 75
+    x: 657
+    y: 1180
     width: 61
     height: 40
     borderLeft: 0
@@ -171,8 +223,8 @@ MonoBehaviour:
     paddingTop: 13
     paddingBottom: 11
   - name: Weapon_2
-    x: 754
-    y: 113
+    x: 657
+    y: 1221
     width: 116
     height: 34
     borderLeft: 0
@@ -184,8 +236,8 @@ MonoBehaviour:
     paddingTop: 17
     paddingBottom: 13
   - name: Weapon_3
-    x: 754
-    y: 148
+    x: 657
+    y: 1289
     width: 120
     height: 39
     borderLeft: 0
@@ -197,8 +249,8 @@ MonoBehaviour:
     paddingTop: 14
     paddingBottom: 11
   - name: Weather_Afternoon
-    x: 512
-    y: 304
+    x: 1789
+    y: 1840
     width: 256
     height: 208
     borderLeft: 0
@@ -210,8 +262,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Weather_Day
-    x: 769
-    y: 288
+    x: 1789
+    y: 1615
     width: 224
     height: 224
     borderLeft: 0
@@ -224,7 +276,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: Weather_Night
     x: 512
-    y: 28
+    y: 1169
     width: 144
     height: 159
     borderLeft: 0
@@ -235,6 +287,19 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: window
+    x: 926
+    y: 1023
+    width: 509
+    height: 473
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 2
+    paddingTop: 22
+    paddingBottom: 17
   mPixelSize: 1
   mReplacement: {fileID: 0}
   mCoordinates: 0
